@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 # ---- Author Credit ------------------------------------------------------------
-GITHUB_URL = "https://github.com/amuqeet6041"
+GITHUB_URL = "https://github.com/ShaizaButt"
 
 # Put your notebook's test accuracy here (for example 0.78). Leave None to hide it.
 TEST_ACCURACY = None
